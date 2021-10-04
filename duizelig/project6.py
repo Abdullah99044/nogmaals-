@@ -4,8 +4,6 @@ while b <= 1000:
     print(a , b)
     b = b + a + 1
     a = a + 1
-    if b == 1000:
-        break
 print("total" , b)
     
 
